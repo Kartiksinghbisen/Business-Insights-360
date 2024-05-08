@@ -115,6 +115,9 @@ Data modelling plays a pivotal role and serves as the foundation for generating 
 
 In the context of this project, we have meticulously followed the Snowflake data modelling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
 
+![Screenshot 2024-05-08 113546](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/aa2d0544-be3e-44be-94fc-8e316c70c404)
+
+
 
 
 ## Dashboard
@@ -122,20 +125,24 @@ In the context of this project, we have meticulously followed the Snowflake data
 You can find the Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMmM3MDE2M2ItZGZjZC00ZWEwLWEzMjItOGY0NWJiNWMyMzRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## HOME VIEW
+![Screenshot 2024-05-08 113329](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/877570bf-5eb9-4cc7-8a63-95961bd9fb56)
 
 
 ## FINANCE VIEW
+![Screenshot 2024-05-08 113411](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/4ed304a4-5d06-420d-ad9a-b85a3eb5249a)
 
 
 ## SALES VIEW
 
+![Screenshot 2024-05-08 113432](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/79808b94-1f1b-4a7d-b0a5-9e50082e82d5)
 
 ## SUPPLY CHAIN VIEW
-
+![Screenshot 2024-05-08 113451](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/46997f1b-d864-4787-9394-7c177bd7e7bf)
 
 ## MARKETING VIEW
+![Screenshot 2024-05-08 113509](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/8fc76dd8-a8ba-409a-89d0-7e676d953c04)
+
 
 
 ## EXECUTIVE VIEW
-
-Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
+![Screenshot 2024-05-08 113524](https://github.com/Kartiksinghbisen/Business-Insights-360/assets/139736045/e3e3912a-8675-4ecf-b668-07cf87326deb)
